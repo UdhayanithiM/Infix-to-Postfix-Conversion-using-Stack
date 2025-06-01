@@ -63,10 +63,11 @@ print("Postfix notation: ", postfix_expr)
 ```
 # Output:
 
-![image](https://github.com/user-attachments/assets/cf1b1027-b243-4359-9dd8-11c8e31ccb3c)
+![image](https://github.com/user-attachments/assets/49fefa5d-2444-462e-a855-b9016dda42e1)
+
 
 
 
 
 ### Result:
-Thus, the implementation of stack using list was executed successfully and stack operations were performed correctly.
+Thus, the conversion of infix to postfix expression using stack with operator precedence and associativity was implemented successfully.
